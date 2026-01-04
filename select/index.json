@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ないばいたりてぃ",
+  "base_artist": "P丸様｡",
+  "createdAt": "2026-01-04T11:50:12.597824Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ないばいたりてぃ",
+      "artist": "P丸様｡",
+      "has_synced": true,
+      "path": "select/01_ないばいたりてぃ_P丸様。.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "【MV】ないばいたりてぃ／P丸様。",
+      "artist": "Pmarusama",
+      "has_synced": true,
+      "path": "select/02_【MV】ないばいたりてぃ_P丸様。_Pmarusama.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ないばいたりてぃ",
+      "artist": "P丸様。",
+      "has_synced": true,
+      "path": "select/03_ないばいたりてぃ_P丸様。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ないばいたりてぃ",
+      "artist": "n-buna",
+      "has_synced": true,
+      "path": "select/04_ないばいたりてぃ_n-buna.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ないばいたりてぃ",
+      "artist": "P丸様。",
+      "has_synced": false,
+      "path": "select/pl_01_ないばいたりてぃ_P丸様。.txt"
+    }
+  ]
+}
